@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\bin\Debug\Деньги в каждый карман isip182НСГВ.exe.config
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\bin\Debug\Деньги в каждый карман isip182НСГВ.exe
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\bin\Debug\Деньги в каждый карман isip182НСГВ.pdb
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги в каждый карман isip182НСГВ.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги_в_каждый_карман_isip182НСГВ.Form1.resources
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги_в_каждый_карман_isip182НСГВ.Properties.Resources.resources
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги в каждый карман isip182НСГВ.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги в каждый карман isip182НСГВ.exe
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги в каждый карман isip182НСГВ.pdb
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги_в_каждый_карман_isip182НСГВ.Form2.resources
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги_в_каждый_карман_isip182НСГВ.Form3.resources
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги_в_каждый_карман_isip182НСГВ.Form5.resources
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги в каждый карман isip182НСГВ.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\НСГВ\Деньги в каждый карман isip182НСГВ\obj\Debug\Деньги_в_каждый_карман_isip182НСГВ.Авторизация.resources
